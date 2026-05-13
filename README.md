@@ -2,7 +2,7 @@
 
 Three notebooks:
 
-visual_CF established that catastrophic forgetting is real, dramatic, and measurable, a 99% to 0% cliff in a controlled setting.
+visual_CF visualized catastrophic forgetting is real, dramatic, and measurable, a 99% to 0% cliff in a controlled setting.
 
 llm_FT_forgetting showed the same phenomenon operating subtly inside a real language model, connecting the toy example to production concerns.
 
